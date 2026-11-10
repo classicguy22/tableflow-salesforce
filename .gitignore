@@ -1,0 +1,12 @@
+.sf/
+.sfdx/
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+auth*.json
+*auth-url*
